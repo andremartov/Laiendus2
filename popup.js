@@ -11,5 +11,6 @@
       })
     })
 
-
+    
     document.getElementById('wordRep').addEventListener('click', FR);
+
