@@ -7,9 +7,9 @@ Laienduse eesmärgiks on aidata inimesi, kes otsivad ülikooli kuhu õppima asud
 Laienduse nupule vajutades avatakse popup, kus on kaks nuppu. Esimesele nupule vajutades suunatakse kasutaja rajaleidja lehele, kus on kirjas kõik Eesti kõrgharidus koolid. Kasutaja avab laienduse uuenduse ja vajutab teist nuppu, mis muudab koolide valimise lihtsaks. Asendab kõik koolide nimed Tallinna Ülikooliga. :)
 
 ## Kasutatud abimaterjal
--
--
- 
+-https://gist.github.com/greatghoul/8120275
+-https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/
+
 
 **Töö on soovitatav teha kahekesi!**
 
